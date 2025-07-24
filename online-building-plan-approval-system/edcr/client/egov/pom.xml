@@ -47,10 +47,10 @@
 				<enabled>true</enabled>
 			</releases>
 		</repository>
-		<repository>
-			<id>JBoss Repository</id>
-			<url>https://repository.jboss.org/nexus/content/groups/public/</url>
-		</repository>
+                <repository>
+                        <id>JBoss Repository</id>
+                        <url>https://nexus-repo.digit.org/nexus/content/groups/public/</url>
+                </repository>
 		<repository>
 	     <id>javaxt.com</id>
 	     <url>http://www.javaxt.com/maven</url>

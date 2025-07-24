@@ -71,10 +71,10 @@
 				<enabled>true</enabled>
 			</releases>
 		</repository>
-		<repository>
-			<id>JBoss Repository</id>
-			<url>https://repository.jboss.org/nexus/content/groups/public/</url>
-		</repository>
+                <repository>
+                        <id>JBoss Repository</id>
+                        <url>https://nexus-repo.digit.org/nexus/content/groups/public/</url>
+                </repository>
 		<repository>
 			<id>JSPRESSO</id>
 			<url>http://repository.jspresso.org/maven2/</url>
